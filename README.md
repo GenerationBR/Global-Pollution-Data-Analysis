@@ -21,3 +21,7 @@ This project integrates data from multiple sources to analyze global pollution t
 2.  **Processing:** Leveraging **NumPy** and **Pandas** for high-performance data cleaning and filtering.
 3.  **Validation:** Ensuring all data aligns with the project's specific business requirements.
 4.  **Visualization:** Exporting processed data to **Looker Studio** to build intuitive and professional charts.
+
+## 📊 Data Visualization
+You can access the interactive dashboard here:
+[🔗 Click here to view the Looker Studio Report](https://datastudio.google.com/reporting/45da593d-5cbf-45d5-b22f-3a990c61fedf)
